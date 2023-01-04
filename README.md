@@ -1,3 +1,3 @@
-# temp repo
+# Solid-Eureka
 
-will be uploading temp files
+Will be uploading files from IBM Data Science
